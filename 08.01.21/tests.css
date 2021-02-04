@@ -1,0 +1,18 @@
+.galva {
+    padding: 30px;
+    text-align: center;
+    background: peru;
+    color: white;
+    font-size: 30px;
+    }
+body{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+.kaja {
+    padding: 15px;
+    text-align: center;
+    background: peru;
+    color: white;
+    font-size: 12px;
+}
