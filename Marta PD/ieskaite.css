@@ -1,0 +1,16 @@
+.h1 {
+    padding: 30px;
+    text-align: right;
+    color: rgb(253, 0, 0);
+    font-size: 30px;
+}
+body{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+.fons {
+    background: rgb(70, 70, 70);
+}
+.tabula {
+        border: 1px solid black;
+}
